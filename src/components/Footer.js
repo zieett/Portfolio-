@@ -19,10 +19,11 @@ export const Footer = () => {
                             <a
                                 href="https://www.linkedin.com/in/viet-tran-vu-hoang-a11433175/"
                                 target="_blank"
+                                rel="noreferrer"
                             >
                                 <img src={navIcon1} alt="Icon" />
                             </a>
-                            <a href="https://www.facebook.com/" target="_blank">
+                            <a href="https://www.facebook.com/" target="_blank" rel="noreferrer">
                                 <img src={navIcon2} alt="Icon" />
                             </a>
                         </div>

@@ -71,10 +71,18 @@ export const NavBar = () => {
                         </Nav>
                         <span className="navbar-text">
                             <div className="social-icon">
-                                <a href="https://www.linkedin.com/in/viet-tran-vu-hoang-a11433175/">
+                                <a
+                                    href="https://www.linkedin.com/in/viet-tran-vu-hoang-a11433175/"
+                                    target="_blank"
+                                    rel="noreferrer"
+                                >
                                     <img src={navIcon1} alt="" />
                                 </a>
-                                <a href="https://www.facebook.com/">
+                                <a
+                                    href="https://www.facebook.com/"
+                                    target="_blank"
+                                    rel="noreferrer"
+                                >
                                     <img src={navIcon2} alt="" />
                                 </a>
                             </div>
