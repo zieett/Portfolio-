@@ -74,14 +74,12 @@ export const NavBar = () => {
                                 <a
                                     href="https://www.linkedin.com/in/viet-tran-vu-hoang-a11433175/"
                                     target="_blank"
-                                    rel="noreferrer"
                                 >
                                     <img src={navIcon1} alt="" />
                                 </a>
                                 <a
-                                    href="https://www.facebook.com/"
+                                    href="https://www.facebook.com/viet.tranvuhoang/"
                                     target="_blank"
-                                    rel="noreferrer"
                                 >
                                     <img src={navIcon2} alt="" />
                                 </a>
